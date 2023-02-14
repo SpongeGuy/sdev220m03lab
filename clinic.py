@@ -1,4 +1,4 @@
-# Evan Cropper
+# Evan Cropper - fixed version
 # clinic.py
 # app will store cats and dogs within objects and has the capability of data storage for multiple pets
 
